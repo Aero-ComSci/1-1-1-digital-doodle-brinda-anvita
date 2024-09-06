@@ -10,7 +10,7 @@
 1. Blocks that you showcase your individual skill
 ![image](https://github.com/user-attachments/assets/e9b700f0-f0fc-4996-87d5-59d45d650ebb)
 1. The images you created
-
+file:///C:/Users/AnvitaKi/Downloads/Screenshot_20240906_122217.jpg
    Add the MIT App Inventor File to the Repository
 file:///C:/Users/AnvitaKi/Downloads/Kidambi_Digital_Doodle.aia
 
